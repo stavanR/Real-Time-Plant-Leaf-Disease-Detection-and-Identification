@@ -1,4 +1,5 @@
 **Abstract**
+
 Damage in yield due to crop diseases is a great concern to the farmers and India being an
 agriculture-based country, a large portion of the country’s GDP also depends on it. Loss
 of yield due to undetected or untimely dispersion of pesticides affects the overall crop
